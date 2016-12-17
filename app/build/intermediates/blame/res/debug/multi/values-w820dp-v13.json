@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\AndroidStudioProjects\\ud839_Miwok-a6df7e73966c65594ae4c35c89b3e691d0fe9c44\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ud839_Miwok-a6df7e73966c65594ae4c35c89b3e691d0fe9c44\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 922,
+                        "endColumn": 57,
+                        "endOffset": 975
+                    }
+                }
+            }
+        ]
+    }
+]
